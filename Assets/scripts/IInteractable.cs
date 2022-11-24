@@ -9,4 +9,6 @@ public interface IInteractable
     string GetDescription();
     
 
+
+
 }
